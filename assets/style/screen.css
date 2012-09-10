@@ -1,0 +1,9 @@
+/*
+ * The Base Screen Style
+ */
+
+body {
+  margin: 0px auto 10px auto;
+  width: 780px;
+  font-family: sans-serif;
+}
