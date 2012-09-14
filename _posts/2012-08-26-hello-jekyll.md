@@ -1,11 +1,6 @@
 ---
 layout: post
-title: Hello, Jekyll!
+title: 新博客系统
 ---
 
-This Jekyll is not Hyde
------------------------
-
-Yes, it is a different person.
-
-Nermind, I will find someone like you.
+刚上大学时就盼望着有自己的博客，后来使用了WordPress，现在我决定用Jekyll来设计我的新博客。
