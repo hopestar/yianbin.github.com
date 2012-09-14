@@ -6,8 +6,8 @@
 body { margin: 0 auto 30px auto; width: 780px; font-family: 'Microsoft Yahei', Tahoma, sans-serif; font-size: 16px; color: #454545; }
 
 h1, h2 { font-weight: normal; }
-h1 { margin: 10px 0 10px 0; }
-h2 { margin: 13px 0 13px 0; }
+h1 { margin: 10px 0 10px 0; font-size: 1.6em; }
+h2 { margin: 13px 0 13px 0; font-size: 1.3em; }
 p { margin: 10px 0 10px 0; }
 
 a { text-decoration: none; color: #0088cc; }
