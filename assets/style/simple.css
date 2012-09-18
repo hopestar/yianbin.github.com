@@ -29,7 +29,7 @@ ol, ul { padding-left: 15px; list-style: none; }
 #title a { color: #454545; }
 #title a:hover { color: #0088cc; }
 
-#date { margin-top: 0; font-size: 0.8em; color: #b2b2b2; }
+#date { margin-bottom: 16px; font-size: 0.8em; color: #b2b2b2; }
 
 /** Home Page **/
 #list span { font-size: 0.8em; color: #b2b2b2; }
