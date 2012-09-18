@@ -8,6 +8,7 @@ body { margin: 0 auto 30px auto; width: 780px; font-family: 'Microsoft Yahei', T
 h1, h2 { font-weight: 500; }
 h1 { margin: 15px 0 13px 0; font-size: 1.6em; }
 h2 { margin: 15px 0 13px 0; font-size: 1.3em; }
+strong { font-weight: 500; }
 p { margin: 13px 0 10px 0; }
 
 a { text-decoration: none; color: #0088cc; }
