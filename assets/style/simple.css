@@ -10,11 +10,11 @@ h1 { margin: 0 0 13px 0; font-size: 1.7em; }
 h2 { margin: 15px 0 13px 0; font-size: 1.4em; }
 h3 { margin: 15px 0 13px 0; font-size: 1.2em; }
 strong { font-weight: 500; }
-p { margin: 10px 0 10px 0; }
+p, ul, ol { margin: 10px 0 10px 0; }
 
 a { text-decoration: none; color: #0088cc; }
 
-pre { padding: 5px; font-family: Consolas, 'Microsoft Yahei', monospace; color: #d88200; }
+pre { padding: 5px; border 1px solid #b2b2b2; font-family: Consolas, 'Microsoft Yahei', monospace; }
 code { font-family: Consolas, 'Microsoft Yahei', monospace; }
 
 #header { padding: 8px 10px 10px 10px; color: #454545; }
