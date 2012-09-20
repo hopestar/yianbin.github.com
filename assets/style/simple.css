@@ -14,8 +14,7 @@ p { margin: 13px 0 10px 0; }
 a { text-decoration: none; color: #0088cc; }
 
 pre { padding: 5px; border: 1px solid rgba(213, 213, 213, 0.2); background-color: rgba(33, 235 227, 0.06); font-family: Consolas, monospace; color: #d88200; }
-
-ol, ul { padding-left: 15px; list-style: none; }
+code { font-family: Consolas, monospace; }
 
 #header { padding: 8px 10px 10px 10px; color: #454545; }
 
@@ -32,4 +31,7 @@ ol, ul { padding-left: 15px; list-style: none; }
 #date { margin-bottom: 16px; font-size: 0.8em; color: #b2b2b2; }
 
 /** Home Page **/
+
+#list { padding-left: 15px; list-style: none; }
 #list span { font-size: 0.8em; color: #b2b2b2; }
+
