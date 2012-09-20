@@ -3,24 +3,25 @@
  */
 
 /** Template Style **/
-body { margin: 0 auto 30px auto; width: 780px; font-family: 'Microsoft Yahei', Tahoma, sans-serif; font-size: 16px; color: #454545; }
+body { margin: 0 auto 30px auto; width: 780px; font-family: Tahoma, 'Microsoft Yahei', sans-serif; font-size: 16px; color: #454545; }
 
 h1, h2 { font-weight: 500; }
-h1 { margin: 15px 0 13px 0; font-size: 1.6em; }
-h2 { margin: 15px 0 13px 0; font-size: 1.3em; }
+h1 { margin: 0 0 13px 0; font-size: 1.7em; }
+h2 { margin: 15px 0 13px 0; font-size: 1.4em; }
+h3 { margin: 15px 0 13px 0; font-size: 1.2em; }
 strong { font-weight: 500; }
-p { margin: 13px 0 10px 0; }
+p { margin: 10px 0 10px 0; }
 
 a { text-decoration: none; color: #0088cc; }
 
-pre { padding: 5px; border: 1px solid rgba(213, 213, 213, 0.2); background-color: rgba(33, 235 227, 0.06); font-family: Consolas, monospace; color: #d88200; }
-code { font-family: Consolas, monospace; }
+pre { padding: 5px; border: 1px solid rgba(213, 213, 213, 0.2); background-color: rgba(33, 235, 227, 0.06); font-family: Consolas, 'Microsoft Yahei', monospace; color: #d88200; }
+code { background-color: rgba(33, 235, 227, 0,06); font-family: Consolas, 'Microsoft Yahei', monospace; }
 
 #header { padding: 8px 10px 10px 10px; color: #454545; }
 
-#content { padding: 0 15px 0 15px; border-radius: 0 0 3px 3px; border-bottom: 2px solid #e2e2e9; box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.15); }
+#content { padding: 10px 15px 10px 15px; background-color: #ffffff; border-radius: 0 0 3px 3px; border-bottom: 2px solid #e2e2e9; box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.15); }
 
-#footer { padding: 0 10px; font-size: 0.8em; }
+#footer { padding: 10px; font-size: 0.8em; }
 
 /** Post Page **/
 
@@ -28,7 +29,7 @@ code { font-family: Consolas, monospace; }
 #title a { color: #454545; }
 #title a:hover { color: #0088cc; }
 
-#date { margin-bottom: 16px; font-size: 0.8em; color: #b2b2b2; }
+#date { margin-bottom: 16px; color: #b2b2b2; }
 
 /** Home Page **/
 
